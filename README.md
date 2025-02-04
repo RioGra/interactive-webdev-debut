@@ -18,7 +18,7 @@
 ![Image Alt](https://github.com/RioGra/interactive-webdev-debut/blob/5746334b8391497dccfea84c34b3847ec9826795/form.png)
 
 ## Home Page Floral Phenomena.PNG Image
-![Image Alt](https://github.com/RioGra/interactive-webdev-debut/blob/c74d9d17e88f8724760bff9ad0deb1fdb3137049/homepage.fp.png)
+![Image Alt]()
 
 <!---Know issues (work in progress)--->
 ## Known issues (work in progress)
