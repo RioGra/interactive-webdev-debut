@@ -4,14 +4,12 @@
 ## 4-week challenge with Code First Girls and Skyscanner that tasks participants with creating an interactive event page
 
 <!---What the project is--->
-This project is an interactive event page created as part of a 4-week challenge with Code First Girls and Skyscanner 
+##This project is an interactive event page created as part of a 4-week challenge with Code First Girls and Skyscanner 
 aimed at testing participants knowledge and skills in building interactive websites.
 The website showcases an educational or community event using HTMl, CSS and JavaScript.
 
-
-## Intro 
 <!--Waht it does-->
-- The interactive event page that includes various sections detailing event information such as time,location, speaker profiles and an option to register or rsvp.
+## The interactive event page includes various sections detailing event information such as time,location, speaker profiles and an option to register or rsvp.
 
 <!--How it is used-->
 Core requirements
@@ -44,4 +42,4 @@ Optional Extra's
 ## Known issues (work in progress)
 -  Form Register button's event listener not working as expected
 -  Hamburger menu not functioning in mobile view
-This is coming soon!
+-  This is coming soon!
