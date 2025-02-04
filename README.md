@@ -1,35 +1,33 @@
-gn with user input fields<!---Name of Project ---->
+<!---Name of Project ---->
 ## Floral Phenomena - 'An Interactive Event Journey' 
 <!--One liner what it does-->
-## 4-week challange with Code First Girls and Skyscanner that tasks participants with creating an interactive event page
-Opportunity for aspiring web developers to apply the skills they've learned 
-
+## 4-week challenge with Code First Girls and Skyscanner that tasks participants with creating an interactive event page
 
 <!---What the project is--->
-This project is an interactive event page created as part of a 4-week challange with Code First Girls and Skyscanner 
+This project is an interactive event page created as part of a 4-week challenge with Code First Girls and Skyscanner 
 aimed at testing participants knowledge and skills in building interactive websites.
 The website showcases an educational or community event using HTMl, CSS and JavaScript.
 
 
-## Intro Paragraph:
+## Intro 
 <!--Waht it does-->
-- The interactive event page should include various sections detailing event information such as time,location, speaker profiles and an option to register or rsvp.
+- The interactive event page that includes various sections detailing event information such as time,location, speaker profiles and an option to register or rsvp.
 
 <!--How it is used-->
- 'Core requirements' 
+Core requirements
  
 - Accessible and easy to navigate
-- UI/UX designed for target audeiance
+- UI/UX designed for target audience
 - Consistent styling
 - Appropiate tone for readibility
 - Site map for improved navigation
 - At least two forms of user input (eg a button and a form
   
 
-  'Optional Extra's'
+Optional Extra's
   
 - Search Engine Optimization (SEO)
-- Data Analytics for adminaistrators 
+- Data Analytics for administrators 
 - User login functionality
 - Responsive design for mobile and desktop
   
@@ -44,4 +42,6 @@ The website showcases an educational or community event using HTMl, CSS and Java
 
 <!---Know issues (work in progress)--->
 ## Known issues (work in progress)
+-  Form Register button's event listener not working as expected
+-  Hamburger menu not functioning in mobile view
 This is coming soon!
