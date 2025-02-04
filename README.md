@@ -1,14 +1,31 @@
 <!---Name of Project ---->
-## Strong Title: Interactive Website Challenge with Code First Girls
+## Strong Title: Interactive Website Challenge with Code First Girls and Skyscanner
 <!--One liner what it does-->
-## Project brief: Create an interactive event page for a educational or community event of your choice.
+## Project brief: 4-week challange aiming to test participants knowledge and skills of interactive websites.
+
 <!---What the project is--->
+- Create an interactive event page for a educational or community event of your choice.
+
 
 ## Intro Paragraph:
 <!--Waht it does-->
+- Website should have different sections for different details of the event, time,location, speaker profiles and an option to register or rsvp.
 
 <!--How it is used-->
+ 'Core requirements' 
+- Be accessible and easy to navigate
+- UI/UX for target audeiance
+- Have consistent styling
+- Have an appropiate tone to ensure it is easy to read
+- Have a site map
+- Inclue at least two forms of user input, eg a button and a form
 
+  'Optional Extra's'
+- Use SEO
+- Add Data Analytics for adminaistrators to view
+- Add a login for users
+- Add responsive website  esigned for mobile and desktop
+  
 <!---Visual Helper or Diagram--->
 
 ## Wireframe.PNG Image
