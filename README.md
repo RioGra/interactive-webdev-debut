@@ -12,7 +12,7 @@
 <!---Visual Helper or Diagram--->
 
 ## Wireframe.PNG Image
-![Image Alt](image_url)
+![Image Alt](https://github.com/RioGra/interactive-webdev-debut/blob/6510e1dd9817a60c00969cd1c07913b7f7ee15a8/wireframe.gr.draw.io.png)
 
 
 
