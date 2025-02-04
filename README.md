@@ -19,7 +19,7 @@ Core requirements
 - Consistent styling
 - Appropiate tone for readibility
 - Site map for improved navigation
-- At least two forms of user input (eg a button and a form
+- At least two forms of user input (eg a button and a form)
   
 
 Optional Extra's
